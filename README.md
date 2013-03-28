@@ -13,4 +13,10 @@ Stappen
 
 - Upload artikelen, klanten en eventuele kortingen.
 - Download offerte-aanvragen en/of bestellingen van klanten.
+- In een later stadium ook voorraad vergelijken.
+- Locaties toevoegen.
 
+Planning
+--------
+
+- 1e oplevering 8 april 2013
